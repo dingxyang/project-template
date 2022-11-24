@@ -1,3 +1,3 @@
 # Project-template
 
-- Vitepress
+- VitePress
